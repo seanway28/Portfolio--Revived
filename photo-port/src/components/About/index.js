@@ -2,6 +2,7 @@ import React from 'react';
 import Sun from '../../assets/images/Sun.jpg';
 import SMC21 from '../../assets/images/SMC21.jpg';
 import Fam from '../../assets/images/Fam.jpg';
+import Shop from '../../assests/images/Shop.jpg'
 
 const About = () => {
     return (
