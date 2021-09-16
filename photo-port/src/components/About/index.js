@@ -6,18 +6,19 @@ import Fam from '../../assets/images/Fam.jpg';
 const About = () => {
     return (
        <section>
-  <div className="body-text">
+  <div className="body-text"/>
   <h3 className="title-text">Sean M. Conway</h3>
           <p>
           Hello, I’m @seanway28, but you can call me Sean!
         I’m interested in full stack development, mobile app development, cyber security and other new opportunities. I believe I can combine this new knowledge with by previous 10+ years as a Project Manager for several Caterpillar dealerships and corporate offices and my time at General Electric that gave me the inspiration to start my coding studies.
         I’m currently a student in the Butler University Full Stack Code Development Executive Bootcamp Program!
-        I’m looking to collaborate anywhere that can help me and anyone else grow in knowledge and practice. I bring knowledge and well over a decade of electrical engineering and project management experience from both Caterpillar and General Electric.
+        I’m looking to work and collaborate anywhere that encourages growth and expansion in both knowledge and practice. I bring leadership and well over a decade of electrical engineering and project management experience from both Caterpillar and General Electric. I look forward using my skillsets, both new and old, in today's ever growing technical market.
         The best way to reach me is at the following email address seanway28@gmail.com
-        <p>
-            </div>
+        I look gorward to hearing from you!
+          </p>
+            <div>
 
-            <div className="row justify-content-center mx-2">
+            <div className="row justify-content-center mx-2"/>
             <div className="card col-4 my-3 p-0 no-border">
                 <img src={Sun} alt="Sunset at Fable Farms"/>
             </div>
@@ -27,6 +28,7 @@ const About = () => {
             <div className="card col-4 my-3 p-0 no-border">
                <img src={Fam} alt="Family is Everything"/>
             </div>   
+            
     </div>
      </section>
     
