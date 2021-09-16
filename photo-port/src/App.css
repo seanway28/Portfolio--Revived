@@ -1,7 +1,7 @@
 :root {
-  --primary: #4e6168;
-  --secondary: #4427ec;
-  --tertiary: #b43830;
+  --primary: #4fa535;
+  --secondary: #2997d6;
+  --tertiary: #bbb563;
 }
 
 .hero {
@@ -15,7 +15,7 @@
 
 html body {
   background-color: var(--secondary);
-  color: white;
+  color: rgb(202, 202, 196);
 }
 
 ul {
@@ -28,7 +28,7 @@ html a {
 }
 
 .navActive {
-  color: white;
+  color: rgb(202, 202, 196)e;
 }
 
 .navTab:hover {
@@ -55,7 +55,7 @@ html a {
 
 .success {
   background-color: var(--tertiary);
-  color: rgb(61, 48, 250);
+  color: rgb(#2997d6);
 }
 
 .container:hover img {
