@@ -24,12 +24,14 @@ const About = () => {
                 <img src={Sun} alt="Sunset at Fable Farms"/>
             </div>
             <div className="card col-4 my-3 p-0 no-border">
-               <img src={SMC21} alt="Portrait amoung pears"/>
+               <img src={SMC21} alt="Portrait among Pears"/>
             </div>
             <div className="card col-4 my-3 p-0 no-border">
                <img src={Fam} alt="Family is Everything"/>
             </div>   
-            
+            <div className="card col-4 my-3 p-0 no-border">
+               <img src={Shop} alt="Always Wired In"/>
+               </div>
     </div>
      </section>
     
