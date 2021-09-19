@@ -30,3 +30,20 @@ function Works() {
     <a href="https://github.com/seanway28/InterstellarWellness" className="card-link">Github</a>
   </div>
 </div>
+<div className="card space-between" style={{width: '18rem'}}>
+  <img src={financeTracker} className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title">Budget Tracker</h5>
+    <p className="card-text">Make a Budget, And Do Not Budge!</p>
+  </div>
+  <div className="card-body">
+    <a href="https://seanway28.github.io/DoNotBudge/" className="card-link">Deployed App</a>
+    <a href="https://github.com/seanway28/DoNotBudge" className="card-link">Github</a>
+  </div>
+</div>
+
+</div>
+  );
+}
+
+export default Works;
