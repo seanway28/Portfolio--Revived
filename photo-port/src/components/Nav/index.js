@@ -10,7 +10,7 @@ function Nav() {
   return (
     <Router>
 <header>
-        <h1><Link to="/" className="center pink">Sean Conway</Link></h1>
+        <h1><Link to="/" className="center lime green">Sean Conway</Link></h1>
         <nav>
             <ul className="nav justify-content-center nav-fill brown">
                 <li className="nav-item">
