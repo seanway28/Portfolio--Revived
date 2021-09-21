@@ -12,7 +12,7 @@ import { validateEmail } from './utils/helpers';
 
 import github from './assets/css/github.svg';
 import linkedin from './assets/css/linkedin.svg';
-import instagram from './assets/css/instagram.svg';
+
 
 
 
